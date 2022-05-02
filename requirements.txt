@@ -1,0 +1,5 @@
+flask==2.1.2
+flask-login
+flask-session
+Werkzeug==2.1.2
+Flask-SQLAlchemy
